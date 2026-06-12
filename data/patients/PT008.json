@@ -1,0 +1,18 @@
+{
+  "patient_id": "PT008",
+  "ground_truth": "P4",
+  "symptoms": "Mild sore throat and runny nose for 3 days. Low-grade fever 37.5\u00b0C. Wants antibiotic.",
+  "history": {
+    "age": 31,
+    "gender": "Female",
+    "conditions": []
+  },
+  "labs": {
+    "troponin_ngL": 10,
+    "bp_systolic": 118,
+    "wbc": 9800,
+    "oxygen_sat": 99,
+    "glucose_mgdL": 92,
+    "rr": 15
+  }
+}

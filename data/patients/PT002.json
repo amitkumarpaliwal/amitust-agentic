@@ -1,0 +1,20 @@
+{
+  "patient_id": "PT002",
+  "ground_truth": "P1",
+  "symptoms": "Worst headache of life, sudden onset. Neck stiffness, photophobia, vomiting x2, mild confusion.",
+  "history": {
+    "age": 42,
+    "gender": "Female",
+    "conditions": [
+      "Migraines"
+    ]
+  },
+  "labs": {
+    "troponin_ngL": 15,
+    "bp_systolic": 178,
+    "wbc": 16200,
+    "oxygen_sat": 97,
+    "glucose_mgdL": 105,
+    "rr": 20
+  }
+}

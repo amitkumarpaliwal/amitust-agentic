@@ -1,0 +1,20 @@
+{
+  "patient_id": "PT007",
+  "ground_truth": "P1",
+  "symptoms": "Diabetic, no insulin for 2 days. Polyuria, polydipsia, confusion, fruity breath, Kussmaul breathing.",
+  "history": {
+    "age": 23,
+    "gender": "Female",
+    "conditions": [
+      "Type 1 Diabetes"
+    ]
+  },
+  "labs": {
+    "troponin_ngL": 20,
+    "bp_systolic": 98,
+    "wbc": 14500,
+    "oxygen_sat": 94,
+    "glucose_mgdL": 480,
+    "rr": 32
+  }
+}

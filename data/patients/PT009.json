@@ -1,0 +1,22 @@
+{
+  "patient_id": "PT009",
+  "ground_truth": "P2",
+  "symptoms": "Elderly male found on floor, confused, disoriented. Temp 38.9\u00b0C. Urinary incontinence.",
+  "history": {
+    "age": 82,
+    "gender": "Male",
+    "conditions": [
+      "Dementia",
+      "Hypertension",
+      "CKD stage 3"
+    ]
+  },
+  "labs": {
+    "troponin_ngL": 38,
+    "bp_systolic": 155,
+    "wbc": 17800,
+    "oxygen_sat": 93,
+    "glucose_mgdL": 118,
+    "rr": 21
+  }
+}

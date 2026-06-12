@@ -1,0 +1,20 @@
+{
+  "patient_id": "PT010",
+  "ground_truth": "P3",
+  "symptoms": "Lower back pain radiating down right leg, 2 weeks after lifting. Pain 5/10, no bowel/bladder changes.",
+  "history": {
+    "age": 45,
+    "gender": "Male",
+    "conditions": [
+      "Obesity"
+    ]
+  },
+  "labs": {
+    "troponin_ngL": 11,
+    "bp_systolic": 132,
+    "wbc": 7600,
+    "oxygen_sat": 98,
+    "glucose_mgdL": 108,
+    "rr": 16
+  }
+}

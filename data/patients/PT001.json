@@ -1,0 +1,21 @@
+{
+  "patient_id": "PT001",
+  "ground_truth": "P1",
+  "symptoms": "Severe crushing chest pain radiating to left arm and jaw. Profuse sweating, nausea, 45 min onset.",
+  "history": {
+    "age": 67,
+    "gender": "Male",
+    "conditions": [
+      "Hypertension",
+      "Diabetes"
+    ]
+  },
+  "labs": {
+    "troponin_ngL": 520,
+    "bp_systolic": 195,
+    "wbc": 12500,
+    "oxygen_sat": 90,
+    "glucose_mgdL": 280,
+    "rr": 24
+  }
+}

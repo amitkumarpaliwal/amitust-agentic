@@ -1,0 +1,7 @@
+parameter,unit,normal,critical
+Troponin I,ng/L,< 40,≥ 400 → P1
+WBC,cells/μL,4000–10000,> 15000 sepsis
+BP Systolic,mmHg,90–139,< 90 or ≥ 180
+SpO2,%,≥ 95,< 88 → P1
+Glucose,mg/dL,70–140,> 300 DKA
+Resp Rate,breaths/min,12–20,> 30 distress

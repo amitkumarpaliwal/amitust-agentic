@@ -1,0 +1,21 @@
+{
+  "patient_id": "PT003",
+  "ground_truth": "P1",
+  "symptoms": "Worsening SOB over 3 days. Productive cough, fever, chills. COPD patient on inhalers.",
+  "history": {
+    "age": 72,
+    "gender": "Male",
+    "conditions": [
+      "COPD",
+      "Hypertension"
+    ]
+  },
+  "labs": {
+    "troponin_ngL": 30,
+    "bp_systolic": 145,
+    "wbc": 18900,
+    "oxygen_sat": 86,
+    "glucose_mgdL": 115,
+    "rr": 28
+  }
+}

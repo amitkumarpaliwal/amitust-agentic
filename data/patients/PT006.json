@@ -1,0 +1,18 @@
+{
+  "patient_id": "PT006",
+  "ground_truth": "P3",
+  "symptoms": "Right knee pain after bicycle fall. Swelling and bruising. Partial weight-bearing. GCS 15.",
+  "history": {
+    "age": 28,
+    "gender": "Male",
+    "conditions": []
+  },
+  "labs": {
+    "troponin_ngL": 12,
+    "bp_systolic": 120,
+    "wbc": 9200,
+    "oxygen_sat": 99,
+    "glucose_mgdL": 95,
+    "rr": 16
+  }
+}

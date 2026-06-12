@@ -1,0 +1,20 @@
+{
+  "patient_id": "PT005",
+  "ground_truth": "P1",
+  "symptoms": "Severe diffuse abdominal pain 9/10. Rigid abdomen, vomiting x5, 4 days constipation.",
+  "history": {
+    "age": 58,
+    "gender": "Male",
+    "conditions": [
+      "Peptic ulcer disease"
+    ]
+  },
+  "labs": {
+    "troponin_ngL": 18,
+    "bp_systolic": 88,
+    "wbc": 22000,
+    "oxygen_sat": 95,
+    "glucose_mgdL": 130,
+    "rr": 26
+  }
+}

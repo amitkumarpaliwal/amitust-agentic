@@ -1,0 +1,20 @@
+{
+  "patient_id": "PT004",
+  "ground_truth": "P2",
+  "symptoms": "Sharp right-sided chest pain worse on breathing. Mild SOB, temp 38.8\u00b0C. Recent long-haul flight.",
+  "history": {
+    "age": 35,
+    "gender": "Female",
+    "conditions": [
+      "OCP use"
+    ]
+  },
+  "labs": {
+    "troponin_ngL": 55,
+    "bp_systolic": 128,
+    "wbc": 11200,
+    "oxygen_sat": 92,
+    "glucose_mgdL": 98,
+    "rr": 22
+  }
+}
